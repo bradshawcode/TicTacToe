@@ -1,0 +1,14 @@
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\bin\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.exe
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\bin\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.deps.json
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\bin\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.runtimeconfig.json
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\bin\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.runtimeconfig.dev.json
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\bin\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.dll
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\bin\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.pdb
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\obj\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.csproj.AssemblyReference.cache
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\obj\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.GeneratedMSBuildEditorConfig.editorconfig
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\obj\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.AssemblyInfoInputs.cache
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\obj\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.AssemblyInfo.cs
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\obj\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.csproj.CoreCompileInputs.cache
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\obj\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.dll
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\obj\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.pdb
+F:\PC Backup\Documents\GitHub\Tic Tac Toe, First Game in C Sharp!\obj\Debug\netcoreapp3.1\Tic Tac Toe, First Game in C Sharp!.genruntimeconfig.cache
